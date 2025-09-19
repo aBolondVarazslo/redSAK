@@ -1,0 +1,28 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+venv/
+env/
+ENV/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and JSON reports
+*.log
+*.json
+
+# Other temporary files
+*.tmp
+*.bak

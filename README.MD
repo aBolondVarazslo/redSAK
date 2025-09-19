@@ -41,3 +41,18 @@ python3 main.py
 3. Follow prompts
 
 4. Results stored in JSON file
+
+---
+
+## Planned Modules
+
+- Directory scanner
+- SQLi tester
+- Additional enumeration tools
+
+---
+
+## Contributions
+
+- Contributions are welcome — follow the existing module structure and commenting style.
+- Ensure all additions maintain ethical and safe usage.
