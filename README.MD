@@ -28,7 +28,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/redSAK.git
+git clone https://github.com/aBolondVarazslo/redSAK.git
 cd redSAK
 ```
 
